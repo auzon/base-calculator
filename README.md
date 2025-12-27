@@ -1,6 +1,8 @@
 # Base Calculator
 
-Convert between decimal, binary and hex with [Base Calculator](https://auzon.github.io/base-calculator/).
+Convert between decimal, binary and hex with Base Calculator.
+
+Try now: https://auzon.github.io/base-calculator
 
 ## Available Scripts
 
